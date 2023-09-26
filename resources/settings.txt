@@ -1,8 +1,3 @@
-minVolume1 = 0
-maxVolume1 = 1000
-minVolume2 = 1000
-maxVolume2 = 20000
-minVolume3 = 20000
-maxVolume3 = 10000000
+volumeThreshold=100, 20000, 10000000
 windowWidth=800
 windowHeight=600
